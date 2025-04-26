@@ -1,0 +1,9 @@
+@media (min-width: 300px) and (max-width: 500px){
+    .banner-part .box .banner-img {
+        position: absolute;
+        top: 18px;
+        right: -184px;
+        width: 700px;
+    }
+
+}
