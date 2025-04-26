@@ -1,0 +1,148 @@
+
+a{
+    text-decoration: none;
+
+}
+
+
+/*==========================
+         common css
+ =========================== */
+
+
+
+
+
+
+
+ /*==========================
+         navber  css  start
+ =========================== */
+
+
+
+
+.navbar{
+    padding-top: 47px;
+}
+
+
+
+.navbar ul{
+    gap: 55px;
+    
+}
+
+.navbar ul li a{
+    color: #212832;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.navbar ul .btn a{
+    color: #212832;
+    font-size: 17px;
+    font-weight: 500;
+    border: 1px solid black;
+    padding: 5px 11px 5px 11px;
+    border-radius: 3px;
+}
+
+
+
+
+
+ /*==========================
+         navber  css  start
+ =========================== */
+
+
+
+
+  /*==========================
+         banner  css  start
+ =========================== */
+
+.banner-part{
+
+}
+
+
+.banner-part .box{
+    position: relative;
+}
+
+
+
+
+.banner-part .box .img1{
+    position: absolute;
+    right: -210px;
+    top:-145px;
+    z-index: -1;
+    
+    
+}
+
+
+.banner-part .box .banner-img{
+    position: absolute;
+    top: 18px;
+    right: 0;
+    width: 700px;
+
+}
+
+.banner-part .box h4{
+    color: #DF6951;
+    font: 20px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    padding-top: 130px;
+
+}
+
+.banner-part .box h1{
+    color: #181E4B;
+    font: 84px;
+    font-weight: 700;
+    font-family: "Volkhov", serif;
+    width: 362px;
+    padding-top: 24px;
+    padding-bottom: 30px;
+
+
+}
+
+
+.banner-part .box p{
+    color: #5E6282;
+    font: 16px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    width: 477px;
+    padding-bottom: 34px;
+
+}
+
+
+.banner-part .box a{
+    padding: 19px 26px 18px 27px;
+    background-color: #F1A501;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+
+
+
+
+ 
+
+
+   /*==========================
+         banner  css  end
+ =========================== */
+
